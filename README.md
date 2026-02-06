@@ -64,13 +64,6 @@ I'm a developer student with a focus on **AI systems**, **Machine Learning**, an
 
 ---
 
-## 📊 GitHub Stats
-
-  ![Linus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nverest&show_icons=true&theme=tokyonight)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nverest&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect!
 Feel free to reach out!
 
