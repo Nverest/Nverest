@@ -47,7 +47,8 @@ I'm a developer student with a focus on **AI systems**, **Machine Learning**, an
 
 | Completed | Ongoing | Upcoming |
 |-----------|---------|----------|
-| OOP Fundamentals (C#, SOLID) | Advanced OOP 2 (Docker, Azure, MCP) | LIA 2 (Feb-May 2026) |
+| Advanced OOP 2 (Docker, Azure, MCP) | | LIA 2 (Feb-May 2026) |
+| OOP Fundamentals (C#, SOLID) | | |
 | Databases (SQL, modeling) | | Thesis Project |
 | AI & Python (Pandas, NumPy) | | |
 | Data Engineering (dbt, Dagster) | | |
